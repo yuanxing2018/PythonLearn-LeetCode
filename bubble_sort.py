@@ -1,6 +1,5 @@
 import random
 import threading
-import time
 
 
 def bubble_sort(list1):
