@@ -31,7 +31,7 @@ flask
 ElasticSearch/Hbase/Zookeeper/Spark/Hadoop 等大数据生态相关技术 + 
 
 
-# 3.python web开发常用技术栈 ('+'号代表在多个爬虫岗位JD中出现的频率)
+＃3.python web开发常用技术栈（'+'号代表在多个web开发中出现的
 javascript +++   
 jQuery    
 MySQL +++++               
