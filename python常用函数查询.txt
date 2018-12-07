@@ -1,0 +1,63 @@
+#### isinstance(类, 类型)   
+判定类的类型
+可以导入from collections.abc import 类型   如:Sized
+返回True 或者 False  ,自动判断类中的继承关系
+
+
+抽象基类:无法实例化
+
+is 和 == 的区别 : == 判断值是否相等 ; is 判断 是不是  在不在里面  ,有区别
+
+关于 多继承, 尽量不要多继承.
+
+#### tuple()
+
+#### .split()
+
+#### @staticmethod  静态方法
+
+#### @classmethod  类方法
+
+#### __名称   私有
+
+#### 魔法函数 dict 查询属性     
+
+#### dir()  列出所有属性,比dict强大,但没有值
+
+#### super()  调用MRO下一个类里的方法(不仅是调用父类)  
+py2:  super(X, self).XXX   X是父类,XXX是父类方法   
+py3: super().xxx  xxx是方法    
+super()的执行顺序:MRO算法(3C)  
+
+#### try()      
+try():      
+  
+except 异常类型 as      
+
+else    
+
+finally     
+
+#### 上下文管理器   
+
+实现 __enter__() 和 __exit__() 这个两个魔法函数    
+Class A():  
+    def __enter__(self):    
+        print("enter")  
+        '获取资源'      
+        return self      
+    def __exit(self, exc_type, exc_val, exc_tb):    
+        '释放资源'      
+        print("exit")       
+    def do_something(self):     
+        print("doing")
+with A() as a:      
+    a.do_something()        
+            
+输出:   "enter"     "doing"     "exit"      
+
+
+
+
+    
+
