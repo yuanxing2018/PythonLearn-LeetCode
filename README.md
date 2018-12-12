@@ -26,7 +26,7 @@ PhantomJS
 Selenium  
 WebDriver  
 验证码破解  
-web.py  
+web.py   ?
 flask    
 ElasticSearch/Hbase/Zookeeper/Spark/Hadoop 等大数据生态相关技术 + 
 
