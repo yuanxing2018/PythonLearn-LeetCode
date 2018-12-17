@@ -50,13 +50,6 @@ bubble_sort(data1)
 print(data1)
 print(quick_sort(data))
 
-# @print_time
-# def quick_sort1():
-#     data = list(range(1000))
-#     random.shuffle(data)
-#     data2 = data
-#     da = quick_sort(data2)
-#     print('快速排序', da)
 
 
 # td1 = threading.Thread(target=bubble_sort1)
