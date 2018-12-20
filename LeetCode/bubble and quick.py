@@ -52,7 +52,6 @@ print(quick_sort(data))
 
 
 
-# td1 = threading.Thread(target=bubble_sort1)
 # td2 = threading.Thread(target=quick_sort1)
 # td1.start()
 # td2.start()
