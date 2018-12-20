@@ -43,7 +43,7 @@ finally
 实现 __enter__() 和 __exit__() 这个两个魔法函数    
 Class A():  
     def __enter__(self):    
-        print("enter")  
+        print("enter")     
         '获取资源'      
         return self      
     def __exit(self, exc_type, exc_val, exc_tb):    
