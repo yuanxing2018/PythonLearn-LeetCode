@@ -56,7 +56,7 @@ Scrum开发
 Flask             
 Ajax           
 Angular +         
-QIBT5线程池                
+            
 redis +        
 tcp/ip             
 Nginx            
