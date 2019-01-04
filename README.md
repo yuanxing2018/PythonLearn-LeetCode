@@ -50,7 +50,7 @@ pandas
 数据结构与算法 +++            
 RESTful                
 HTTP/HTTPS协议 ++            
-步网络框架twisted；            
+异步网络框架twisted；            
 MongoDB +              
 Scrum开发                
 Flask             
