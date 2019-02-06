@@ -14,7 +14,7 @@ Python爬虫模块
 网络基本知识扎实  
 scrapy +  
 pyspider  
-Mysql +  +++
+Mysql +++++
 MongoDB +  
 Redis  
 多线程、多进程,高并发、高性能的分布式系统的设计及应用 +  
