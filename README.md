@@ -2,7 +2,7 @@
 ## 在linux下学习(优先级):   
 python语言数据类型结构算法和常用内置库  >  Mysql数据  > MongoDB  >  Redis > JS > HTML > HTTP协议 > Flask > jQuery > pandas > Git > selenium
 
-# 2.python爬虫常用技术栈 
+# 2.python爬虫常用技术栈 .+
 
 
 数据结构   
